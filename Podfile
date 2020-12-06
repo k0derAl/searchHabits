@@ -12,8 +12,6 @@ target 'searchHabits' do
   pod 'DBDebugToolkit', :configurations => ['Debug']	 
   pod 'PluggableAppDelegate'
   pod 'RxSwift'
-  pod 'DITranquillity', '~> 3.7.1'
-  pod 'R.swift', '~> 5.0.3'
   pod 'SVProgressHUD'
 
 
