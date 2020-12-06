@@ -1,0 +1,57 @@
+PODS:
+  - Alamofire (5.4.0)
+  - AlamofireNetworkActivityLogger (3.4.0):
+    - Alamofire (~> 5.4.0)
+  - DBDebugToolkit (0.6.0)
+  - DITranquillity (3.7.2):
+    - SwiftLazy
+  - PluggableAppDelegate (1.3.0)
+  - R.swift (5.0.3):
+    - R.swift.Library (~> 5.0.0)
+  - R.swift.Library (5.0.1)
+  - RxSwift (5.1.1)
+  - SnapKit (5.0.1)
+  - SVProgressHUD (2.2.5)
+  - SwiftLazy (1.1.7)
+
+DEPENDENCIES:
+  - Alamofire
+  - AlamofireNetworkActivityLogger
+  - DBDebugToolkit
+  - DITranquillity (~> 3.7.1)
+  - PluggableAppDelegate
+  - R.swift (~> 5.0.3)
+  - RxSwift
+  - SnapKit
+  - SVProgressHUD
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - AlamofireNetworkActivityLogger
+    - DBDebugToolkit
+    - DITranquillity
+    - PluggableAppDelegate
+    - R.swift
+    - R.swift.Library
+    - RxSwift
+    - SnapKit
+    - SVProgressHUD
+    - SwiftLazy
+
+SPEC CHECKSUMS:
+  Alamofire: 3b6a534a3df22db367e4dedeeca73d1ddfcf0e2f
+  AlamofireNetworkActivityLogger: 162ab8aee00e6267a4304d7cc134e13ccfe3bcc5
+  DBDebugToolkit: 03eb3483da4daf03b853b83ade5a8da9c8b7aff4
+  DITranquillity: eac3d90c40150159049e2d109d4108ee5ba5da18
+  PluggableAppDelegate: 94c85bf821d85661c843a86e1aafe0cc12a62634
+  R.swift: f5a87643b91ea569d23d6afb3eee9c743edde239
+  R.swift.Library: cfe85d569d9bae6cb262922db130e7c3a7a5fad1
+  RxSwift: 81470a2074fa8780320ea5fe4102807cb7118178
+  SnapKit: 97b92857e3df3a0c71833cce143274bf6ef8e5eb
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+  SwiftLazy: dcb1edc6c2b633ba2e68f28554d9dd6d1c0bfd13
+
+PODFILE CHECKSUM: a5dfa6c5ab4e34431c8863cb673df9c903eb9100
+
+COCOAPODS: 1.10.0
